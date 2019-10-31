@@ -12,10 +12,6 @@
 
 }
 
-
-
-
-
 .mygrid{
 
     display: grid;
@@ -31,8 +27,6 @@
 }
 
 
-
-
 .left
 
 {
@@ -46,7 +40,6 @@
 }
 
 
-
 .right
 
 {
@@ -57,4 +50,9 @@
 
     background-color: grey;
 
+}
+
+img{
+width: 600px;
+height: 800px;
 }
